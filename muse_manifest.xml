@@ -1,0 +1,99 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hotel.com" resolutions="1x" timestamp="1465754217728">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="291495047" ref="index"/>
+    <file name="about.css" crc="4204250729" ref="about"/>
+    <file name="gallery.css" crc="128056882" ref="gallery"/>
+    <file name="room.css" crc="124691771" ref="room"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:about:room:gallery"/>
+    <file name="museutils.js" crc="531812214" ref="index:about:room:gallery"/>
+    <file name="whatinput.js" crc="84559013" ref="index:about:room:gallery"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="index:about:room:gallery"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:about:room:gallery"/>
+    <file name="pie.js" crc="3827607177" ref="index:about:room:gallery"/>
+    <file name="webpro.js" crc="4156477058" ref="index:room:gallery"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="index:room:gallery"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="index:room:gallery"/>
+    <file name="touchswipe.js" crc="4174436727" ref="index:room:gallery"/>
+    <file name="jquery.scrolleffects.js" crc="3975164813" ref="index:about:room:gallery"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index:about:room:gallery"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:room:gallery"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pr 29 - trs - 14_05_10 - 001-u280-fr.png" crc="3935626143" ref="index"/>
+    <file name="pr 36 - trs - 03_08_10_239-u411-fr.jpg" crc="3768095210" ref="index"/>
+    <file name="pr 36 - trs - 03_08_10_239-u539-fr.png" crc="3953707051" ref="index"/>
+    <file name="facebook.png" crc="3937578975" ref="index:about:room:gallery"/>
+    <file name="twitter.png" crc="4078170562" ref="index:about:room:gallery"/>
+    <file name="skype.png" crc="3961734618" ref="index:about:room:gallery"/>
+    <file name="dsc_3935 psd.jpg" crc="414066319" ref="index:about:room:gallery"/>
+    <file name="dsc_0632.jpg" crc="43006934" ref="index"/>
+    <file name="dsc_0620 copy-u189-fr.jpg" crc="1868131" ref="index"/>
+    <file name="dsc_0646 copy-u190-fr.jpg" crc="4056630687" ref="index"/>
+    <file name="dsc_0620 copy-u390-fr.jpg" crc="187722667" ref="index"/>
+    <file name="u396-14.png" crc="3898241685" ref="index"/>
+    <file name="u409-14.png" crc="3781743846" ref="index"/>
+    <file name="dsc_0695 copy.jpg" crc="13500242" ref="index"/>
+    <file name="dsc_0694 copy-crop-u4108.jpg" crc="254854864" ref="index"/>
+    <file name="dsc_0668 copy-crop-u4145.jpg" crc="4251848293" ref="index"/>
+    <file name="dsc_0695 copy-crop-u4171.jpg" crc="473583394" ref="index"/>
+    <file name="dsc_0646 copy-crop-u4196.jpg" crc="438551355" ref="index"/>
+    <file name="dsc_0639-crop-u4223.jpg" crc="3824190867" ref="index"/>
+    <file name="dsc_0644-crop-u4251.jpg" crc="507633121" ref="index"/>
+    <file name="dsc_0640-crop-u4279.jpg" crc="29272873" ref="index"/>
+    <file name="dsc_0694 copy68x45.jpg" crc="4117404137" seo="true" ref="index"/>
+    <file name="dsc_0668 copy68x45.jpg" crc="4253188524" seo="true" ref="index"/>
+    <file name="dsc_0695 copy68x45.jpg" crc="4278388205" seo="true" ref="index"/>
+    <file name="dsc_0646 copy68x45.jpg" crc="226930921" seo="true" ref="index"/>
+    <file name="dsc_063968x45.jpg" crc="4040223876" seo="true" ref="index"/>
+    <file name="dsc_064468x45.jpg" crc="4125941898" seo="true" ref="index"/>
+    <file name="dsc_064068x45.jpg" crc="415734105" seo="true" ref="index"/>
+    <file name="u1491-4.png" crc="3919678240" ref="index"/>
+    <file name="u2689-18.png" crc="293518318" ref="about"/>
+    <file name="u2404-4.png" crc="3919678240" ref="about"/>
+    <file name="dsc_0620 copy-u2700-fr.jpg" crc="238027447" ref="room"/>
+    <file name="dsc_0621 copy-u2739-fr.jpg" crc="90757193" ref="room"/>
+    <file name="dsc_0619 copy-u2745-fr.jpg" crc="70717959" ref="room"/>
+    <file name="dsc_0618 copy-u4071-a-fr.jpg" crc="160410592" ref="room"/>
+    <file name="dsc_0620 copy.jpg" crc="141829180" ref="room"/>
+    <file name="dsc_0621 copy.jpg" crc="279538218" ref="room"/>
+    <file name="dsc_0619 copy.jpg" crc="302145794" ref="room"/>
+    <file name="dsc_0618 copy.jpg" crc="4016762448" ref="room"/>
+    <file name="u2763-18.png" crc="289236646" ref="room"/>
+    <file name="dsc_0623 copy-u2772-fr.jpg" crc="399858552" ref="room"/>
+    <file name="dsc_0626 copy-u2771-fr.jpg" crc="331312957" ref="room"/>
+    <file name="dsc_0627 copy-u2773-fr.jpg" crc="260186257" ref="room"/>
+    <file name="dsc_0628 copy.jpg" crc="176597162" ref="room"/>
+    <file name="dsc_0623 copy.jpg" crc="4164645081" ref="room"/>
+    <file name="dsc_0626 copy.jpg" crc="3978185562" ref="room"/>
+    <file name="dsc_0627 copy.jpg" crc="4089502159" ref="room"/>
+    <file name="u2792-17.png" crc="93012658" ref="room"/>
+    <file name="u3109-4.png" crc="216653287" ref="gallery"/>
+    <file name="11002511_402688046558309_76662203544878023_n-u3910-fr.jpg" crc="3854818275" ref="gallery"/>
+    <file name="12800326_538610829632696_9004161723808023259_n-u3916-fr.jpg" crc="4291545192" ref="gallery"/>
+    <file name="13165932_572778092882636_5044847621325157556_n-u3922-fr.jpg" crc="4246612514" ref="gallery"/>
+    <file name="13227079_571867546307024_9070454043179933798_n-u3928-fr.jpg" crc="4205507185" ref="gallery"/>
+    <file name="13227176_573872436106535_7275178760976108719_n-u3934-fr.jpg" crc="3902301615" ref="gallery"/>
+    <file name="13240697_572778089549303_6392716182816527903_n-u3940-fr.jpg" crc="33161264" ref="gallery"/>
+    <file name="13265896_573872449439867_7921232220476359_n-u3946-fr.jpg" crc="3854776091" ref="gallery"/>
+    <file name="13325480_1260559570628656_6855074491871119520_n-u3952-fr.jpg" crc="261088387" ref="gallery"/>
+    <file name="11002511_402688046558309_76662203544878023_n.jpg" crc="124564945" ref="gallery"/>
+    <file name="12800326_538610829632696_9004161723808023259_n-u3919-fr.jpg" crc="3951283408" ref="gallery"/>
+    <file name="13165932_572778092882636_5044847621325157556_n.jpg" crc="3814340295" ref="gallery"/>
+    <file name="13227079_571867546307024_9070454043179933798_n-u3931-fr.jpg" crc="3824756806" ref="gallery"/>
+    <file name="13227176_573872436106535_7275178760976108719_n-u3937-fr.jpg" crc="3980940397" ref="gallery"/>
+    <file name="13240697_572778089549303_6392716182816527903_n-u3943-fr.jpg" crc="50405182" ref="gallery"/>
+    <file name="13265896_573872449439867_7921232220476359_n.jpg" crc="263995410" ref="gallery"/>
+    <file name="13325480_1260559570628656_6855074491871119520_n-u3955-fr.jpg" crc="120326939" ref="gallery"/>
+    <file name="u3096-4.png" crc="3919678240" ref="gallery"/>
+    <file name="dsc_0628 copy-u4033-fr.jpg" crc="346752707" ref="room"/>
+  </folder>
+  <file name="index.html" crc="203762064" seo="true" mt="1465751925904" redirect="true"/>
+  <file name="about.html" crc="3885112681" seo="true" mt="1465752062918" redirect="true"/>
+  <file name="room.html" crc="71602454" seo="true" mt="1465754216538" redirect="true"/>
+  <file name="gallery.html" crc="3837489965" seo="true" mt="1465752071905" redirect="true"/>
+</manifest>
